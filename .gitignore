@@ -36,7 +36,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# data files (keep refined, ignore original large files)
+# data files
 /data/schemes.json
 /34schemes.docx
 /34schemes.txt

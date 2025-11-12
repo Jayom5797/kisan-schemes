@@ -63,21 +63,19 @@ service cloud.firestore {
 }
 ```
 
-### 4. Import Data
+**Note:** The collection `governmentSchemes` will be created automatically when you add your first scheme through the web interface.
 
-```bash
-npm run import-data
-```
-
-This will import all 35 schemes from `data/schemes-refined.json` into Firestore.
-
-### 5. Run Development Server
+### 4. Run Development Server
 
 ```bash
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### 5. Add Schemes
+
+Use the "Add Scheme" button in the web interface to add government schemes directly. All data will be stored in Firebase Firestore.
 
 ## Data Structure
 
@@ -110,9 +108,7 @@ Each scheme follows this structure:
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run start` - Start production server
-- `npm run import-data` - Import schemes to Firebase
-- `npm run refine-schemes` - Refine scheme data
-- `npm run extract-txt` - Extract data from text file
+- `npm run lint` - Run ESLint
 
 ## API Usage
 
@@ -145,12 +141,8 @@ Once deployed, access the data via REST API:
 ├── firebase/
 │   ├── config.ts            # Firebase config
 │   └── schemes.ts           # Firestore operations
-├── scripts/
-│   ├── import-data.js       # Import script
-│   ├── refine-schemes-v2.js # Data refinement
-│   └── ...                  # Other utility scripts
 ├── data/
-│   └── schemes-refined.json # Refined scheme data
+│   └── schemes-refined.json # Sample scheme data (reference)
 └── package.json
 ```
 
