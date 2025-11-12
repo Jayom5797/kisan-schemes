@@ -1,0 +1,13 @@
+[
+  {
+    "schemeName": "Example Scheme Name",
+    "department": "Ministry of Example",
+    "description": "This is a description of the scheme",
+    "eligibility": "Eligibility criteria for the scheme",
+    "benefits": "Benefits provided by the scheme",
+    "applicationProcess": "Step-by-step application process",
+    "website": "https://example.com",
+    "contactInfo": "Phone: 123-456-7890, Email: info@example.com"
+  }
+]
+

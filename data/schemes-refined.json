@@ -1,0 +1,986 @@
+[
+  {
+    "idx": 0,
+    "id": "38d683cf-5d3a-4b8b-9a23-242bd7fc27bd",
+    "scheme_code": "GAT-SHETI",
+    "scheme_name": "Gat Sheti Yojana",
+    "full_name": "Gat Sheti Yojana (Group Farming Scheme, Maharashtra)",
+    "description": "The Gat Sheti Yojana, also known as the Group Farming Scheme, is a pioneering initiative of the Government of Maharashtra designed to promote collective and cooperative farming among small and marginal farmers. The word “Gat Sheti” literally translates to “Farming by Groups.” This concept encourages farmers from the same locality or adjoining areas to pool their land, labor, and resources to practice farming collectively instead of individually.",
+    "category": "cooperative_farming",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Capacity Building Members receive regular training in sustainable farming, accounting, and cooperative management.  g. Social Coh support among farmers, strengthening the rural social fabric. The Gat Sheti Yojana has the potential to redefine Maharashtra’s rural economy. It fosters a shift from subsistence to commercial farming, enabli",
+    "application_process": "Step 1: Awareness and Mobilization Agricultural officers conduct awareness drives in villages to explain the benefits of group farming. Interested farmers are encouraged to form groups. Step \n\nStep\n\nStep 2: Implementation Once approved, the group undertakes collective farming operations, sharing labor, machinery, and profits. Step",
+    "official_website": "https://agri.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.917Z",
+    "updated_at": "2025-11-12T18:52:49.918Z"
+  },
+  {
+    "idx": 1,
+    "id": "36aea516-99f5-4ff1-9a86-1b74ffa9fdf4",
+    "scheme_code": "JALYUKTA-SHIVAR",
+    "scheme_name": "Jalyukta Shivar Abhiyan",
+    "full_name": "Jalyukta Shivar Abhiyan (Water Conservation Mission, Maharashtra)",
+    "description": "The Jalyukta Shivar Abhiyan (JSA) is one of the most ambitious and transformative water conservation programs launched by the Government of Maharashtra. It aims to make the state drought-free by promoting decentralized and community-based rainwater harvesting, groundwater recharge, and watershed management initiatives. Launched on 26 January 2015 by then Chief Minister Devendra Fadnavis, the Abhiyan was a response to the recurrent droughts, severe water scarcity, and declining agricultural produ...",
+    "category": "irrigation",
+    "eligibility": [
+      "SC/ST farmers",
+      "must formally pass a resolution to participate in JSA. The Village Water Committee (Pani Samiti) must be formed to oversee planning and implementation"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Benefits Increase in cropping intensity (from single to double cropping). Higher productivity of crops like soybean, cotton, and sugarcane. Expansion of horticulture and dairy farming. d. Socio-Economic Impa",
+    "application_process": "Step 1: Village Selection District-level authorities identify drought-prone villages based on rainfall patterns, groundwater data, and water stress indicators. Step \n\nStep\n\nStep 2: Monitoring and Evaluation District-level committees regularly review progress using GIS mapping, drone imagery, and water-level data to ensure transparency.",
+    "official_website": "https://jalyuktashivar.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.919Z",
+    "updated_at": "2025-11-12T18:52:49.919Z"
+  },
+  {
+    "idx": 2,
+    "id": "fcbcc5e1-d35e-4b66-bd16-70f61958ae5d",
+    "scheme_code": "GOAT-SHEEP",
+    "scheme_name": "Goat and Sheep Rearing Scheme for Scheduled Casteand Scheduled TribeFarmers",
+    "full_name": "Goat and Sheep Rearing Scheme for Scheduled Caste (SC) and Scheduled Tribe (ST) Farmers, Maharashtra",
+    "description": "The Goat and Sheep Rearing Scheme for Scheduled Caste (SC) and Scheduled Tribe (ST) farmers is an important livelihood diversification and income-generation initiative implemented by the Government of Maharashtra. The scheme aims to empower socio-economically weaker farmers—especially those belonging to SC and ST categories—by providing them with subsidized livestock units of goats and sheep along with necessary inputs and technical support.",
+    "category": "animal_husbandry",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "Below Poverty Line (BPL) families",
+      "Landless farmers/laborers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Size Photos",
+      "Caste Certificate",
+      "Residence Proof"
+    ],
+    "benefits": "Economic Empowerment Livestock rearing provides regular cash flow through: Sale of kids/lambs, Milk production, and Manure sales.  A unit of Benefits Goat milk and meat are nutritious, providing a rich source of protein and micronutrients, improving family health outcomes. e. Social Inclusion By focusing on SC/ST communities, the scheme promotes ₹60,000–₹80,000, depending on local market conditions. b. Low-Risk, High Return Livelihood Compared to crop farming, goat and sheep rearing require les",
+    "application_process": "Step 1: Application Eligible beneficiaries submit applications through Taluka Animal Husbandry Offices or Gram Panchayats. Applications can also be made through state online portals when available. Step \n\nStep\n\nStep 2: Monitoring Periodic inspections are carried out by animal husbandry officers to ensure proper care, growth, and utilization of livestock. Beneficiaries require more sustained capacity building on scientific rearing methods.",
+    "official_website": "https://ahd.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.920Z",
+    "updated_at": "2025-11-12T18:52:49.920Z"
+  },
+  {
+    "idx": 3,
+    "id": "76c19394-6ffa-4fae-b114-b0fe698a4efe",
+    "scheme_code": "RYTHU-BANDHU",
+    "scheme_name": "Rythu Bandhu Scheme",
+    "full_name": "Rythu Bandhu Scheme (Telangana)",
+    "description": "(Farmer Investment Support Scheme) The Rythu Bandhu Scheme, officially known as the Telangana Farmer Investment Support Scheme (FISS), is one of India’s most ambitious direct income support initiatives for farmers. It was launched by the Government of Telangana in May 2018 under the leadership of Chief Minister K. Chandrashekar Rao (KCR). The term “Rythu Bandhu” literally translates to “Friend of the Farmer.",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers",
+      "required include: Aadhaar card, Pattadar Passbook (land ownership proof), and Bank account details. Critics argue that continuous cash support without"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Land Ownership Documents",
+      "Pattadar Passbook",
+      "Bank Account Details"
+    ],
+    "benefits": "Transparent Delivery The use of DBT eliminates leakages and ensures funds reach the intended beneficiaries without intermediaries.  f. Policy Model for India The success of Rythu Bandhu inspired s support programs for farmers globally. Large landowners receive higher payments, leading to an inequitable distribution of benefits. Beyond income support, Rythu Bandhu has had profound social and economic i ₹70,000 crore had been disbursed to farmers under the scheme — making it one of the largest dir...",
+    "application_process": "Step 1: Identification of Beneficiaries The Revenue Department identifies eligible farmers using updated land records from the Dharani Land Records Portal. Step \n\nStep\n\nStep 2: Monitoring and Grievance Redressal District Collectors and Agriculture Officers monitor implementation. Farmers can report discrepancies through helplines or local offices. Integration between land records and the beneficiary database needs constant updating to prevent duplication or omissions.",
+    "official_website": "https://rythubandhu.telangana.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-425-0001",
+    "created_at": "2025-11-12T18:52:49.920Z",
+    "updated_at": "2025-11-12T18:52:49.920Z"
+  },
+  {
+    "idx": 4,
+    "id": "f2d4cbbf-f546-4428-9b4c-394f991b8ea0",
+    "scheme_code": "KALIA",
+    "scheme_name": "KALIA Scheme",
+    "full_name": "KALIA Scheme (Krushak Assistance for Livelihood and Income Augmentation, Odisha)",
+    "description": "The KALIA Scheme, which stands for Krushak Assistance for Livelihood and Income Augmentation, is one of the most comprehensive and inclusive farmer welfare initiatives introduced by the Government of Odisha. It was officially launched on December 21, 2018, under the leadership of Chief Minister Naveen Patnaik. The scheme was designed to accelerate agricultural prosperity and reduce poverty in Odisha by providing direct financial assistance and comprehensive livelihood support to farmers, sharecr...",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "The state has disbursed more than ₹10,000 crore since 2018 through direct transfers.  b. Reduced Indebtedness By providing upfront financial support, farmers now rely less on priva loans. c. Livelihood Diversification Landless families have successfully adopted activities like goat rearing and aquaculture, providing additional sources of income and resilience against crop failures. assistance to affected families after floods and cyclones. g.",
+    "application_process": "Step 1: Identification of Beneficiaries Beneficiaries are identified through the KALIA database, integrated with land records and the Socio-Economic Caste Census (SECC) data to ensure accuracy and transparency. Step Step 3: Fund Transfer Funds are transferred directly into the beneficiary’s bank account using the DBT system, eliminating middlemen and leakages. Step",
+    "official_website": "https://kalia.odisha.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "155333",
+    "created_at": "2025-11-12T18:52:49.921Z",
+    "updated_at": "2025-11-12T18:52:49.921Z"
+  },
+  {
+    "idx": 5,
+    "id": "7fbd557d-5d3a-411b-9757-cc4180f46b1f",
+    "scheme_code": "KRISHAK-BANDHU",
+    "scheme_name": "Krishak Bandhu Scheme",
+    "full_name": "Krishak Bandhu Scheme (West Bengal)",
+    "description": "(Farmer Welfare and Financial Support Program) The Krishak Bandhu Scheme is a flagship farmer welfare initiative launched by the Government of West Bengal to ensure financial security and social protection for farming families. Introduced in January 2019 under the leadership of Chief Minister Mamata Banerjee, the scheme provides direct financial assistance to farmers and a death benefit insurance to safeguard the economic well-being of their families.",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Identity Proof",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": "Sharecroppers Unlike many other schemes, Krishak Bandhu includes sh support programs, including PM-KISAN, which was launched nationwide in 2019.  ₹10,000 crore has been directly transferred to beneficiaries since 2019. b. Reduction in Financial Stress Timely financial assistance has helped farmer",
+    "application_process": "Step 1: Enrollment Farmers register under the scheme through Block-level Agriculture Offices or online portals, providing Aadhaar, land records, and bank details. Step \n\nStep\n\nStep 2: Monitoring and Grievance Redressal District Magistrates, Agriculture Officers, and Panchayati Raj Institutions oversee implementation. Farmers can raise grievances via dedicated helplines and local offices.",
+    "official_website": "https://krishakbandhu.wb.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-345-5500",
+    "created_at": "2025-11-12T18:52:49.921Z",
+    "updated_at": "2025-11-12T18:52:49.921Z"
+  },
+  {
+    "idx": 6,
+    "id": "9dd70084-3b40-477a-97a3-3ae21d82cc65",
+    "scheme_code": "KHET-SURAKSHA",
+    "scheme_name": "Mukhya Mantri Khet Suraksha Yojana",
+    "full_name": "Mukhya Mantri Khet Suraksha Yojana (Uttar Pradesh)",
+    "description": "(Chief Minister’s Crop Protection Scheme) The Mukhya Mantri Khet Suraksha Yojana is a flagship agricultural protection program launched by the Government of Uttar Pradesh under the leadership of Chief Minister Yogi Adityanath. Introduced in 2023, the scheme was designed to address one of the most persistent and under-discussed challenges faced by farmers in the state — crop damage caused by stray cattle, wild animals, and nilgai (blue bulls).",
+    "category": "infrastructure",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "must meet the following eligibility conditions: Verification and approval processes can take several weeks, especially during high application seasons"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "Protection from Crop Damage Farmers report a 70–90% reduction in crop loss due to stray animals, directly improving harvest yields and income stability.  b. Labor Savings Farmers no longer need t supports food security and rural economic stability. % reduction in crop loss due to stray animals, directly improving harvest yields and income stability. b. Labor Savings Farmers no longer need to guard",
+    "application_process": "Step 1: Application Farmers can apply both online through the UP Agriculture Portal or offline at their local Block Agriculture Office or CSC (Common Service Center). Step \n\nStep\n\nStep 2: Inspection and DBT Transfer After successful installation, officers inspect the site and verify installation quality. The subsidy amount is then credited directly to the farmer’s bank account through Direct Benefit Transfer (DBT). In villages where multiple farmers share borders, disputes sometimes arise over boundary responsibilities and maintenance costs.",
+    "official_website": "https://upagriculture.com",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.921Z",
+    "updated_at": "2025-11-12T18:52:49.921Z"
+  },
+  {
+    "idx": 7,
+    "id": "94e71734-2456-4466-adb8-35de88e7f5d6",
+    "scheme_code": "BHAVISHYA-UTHAN",
+    "scheme_name": "Bhavishya Uthan Abhiyan",
+    "full_name": "Bhavishya Uthan Abhiyan (Assam)",
+    "description": "(A Mission for Agricultural Growth and Farmer Prosperity) The Bhavishya Uthan Abhiyan — meaning “Mission for Future Upliftment” — is an ambitious initiative launched by the Government of Assam to transform the state’s agricultural landscape through holistic rural development, technology-driven interventions, and farmer-centric programs. The scheme’s primary aim is to improve agricultural productivity, strengthen market linkages, and enhance the livelihood security of farmers by providing targete...",
+    "category": "general",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "required include: Aadhaar card, Land ownership certificate or tenancy proof, Bank passbook, Income certificate, and Passport-size photographs. Farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Passport Size Photos",
+      "Income Certificate"
+    ],
+    "benefits": "Assam’s rural population.  a. Enhanced Productivity Adoption of modern seeds and mechanization has increased yields of rice, pulses, maize, and horticultural crops. b. Crop Diversification Farmers support, strengthening inclusive growth.",
+    "application_process": "Step 1: Planning and Selection District Agriculture Officers prepare district-wise implementation plans based on local agro-climatic conditions and crop suitability. Step \n\nStep\n\nStep 2: Fund Disbursement Financial support is provided through Direct Benefit Transfer (DBT) to ensure transparency. Older farmers and smallholders sometimes resist adopting new technologies without sustained training.",
+    "official_website": "https://agri.assam.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.922Z",
+    "updated_at": "2025-11-12T18:52:49.922Z"
+  },
+  {
+    "idx": 8,
+    "id": "cda3e28e-d362-4656-85a0-20ce3e13396b",
+    "scheme_code": "KISAN-SAHAY",
+    "scheme_name": "Mukhyamantri Kisan Sahay Yojana",
+    "full_name": "Mukhyamantri Kisan Sahay Yojana (Gujarat)",
+    "description": "(Chief Minister’s Farmer Assistance Scheme) The Mukhyamantri Kisan Sahay Yojana (MKSY) is a flagship crop loss compensation scheme launched by the Government of Gujarat in August 2020 under the leadership of Chief Minister Vijay Rupani. The scheme was designed as a state-specific risk mitigation program to provide financial assistance to farmers suffering from crop loss due to natural calamities, including drought, heavy rainfall, unseasonal rain, hailstorms, and locust attacks.",
+    "category": "insurance",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers",
+      "must meet specific eligibility conditions: Delays in rainfall and satellite data processing can slow down the declaration of affected zones."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": "insurance-based programs, no farmer is excluded for non-payment of premiums, ensuring universal access to relief. c. Quick Response System Automated assessments and digital payments have drastically reduced wa",
+    "application_process": "Step 1: Notification of Affected Areas After a natural calamity (e.g., flood or drought), the Revenue Department and Agriculture Department jointly assess the situation. District Collectors declare affected talukas or villages based on rainfall and crop damage data. Step \n\nStep\n\nStep 2: Grievance Redressal A transparent grievance mechanism at the district and taluka level allows farmers to raise concerns about compensation amount or eligibility. While excellent as a relief measure, the scheme needs complementary programs promoting long-term resilience (like irrigation and diversification).",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-233-5500",
+    "created_at": "2025-11-12T18:52:49.922Z",
+    "updated_at": "2025-11-12T18:52:49.922Z"
+  },
+  {
+    "idx": 9,
+    "id": "a94cb27f-d1cf-4f4b-83a3-e33b9e49c52c",
+    "scheme_code": "JEEVAMRUTHA",
+    "scheme_name": "Jeevamrutha Scheme",
+    "full_name": "Jeevamrutha Scheme (Karnataka)",
+    "description": "(Promotion of Natural and Organic Farming) The Jeevamrutha Scheme is an innovative and eco-friendly agricultural initiative launched by the Government of Karnataka to promote natural and organic farming practices among the state’s farmers. Named after “Jeevamrutha” — a Sanskrit term meaning “nectar of life” — the scheme focuses on the preparation and use of a microbial growth-promoting liquid fertilizer that rejuvenates the soil and enhances crop productivity naturally.",
+    "category": "organic_farming",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "must meet the following conditions: Documents required include: Aadhaar card, Land ownership proof (RTC/Pahani copy), Bank account details, and Farmer"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "Soil Health Restoration Continuous application of Jeevamrutha revives soil microorganisms, enhances nitrogen fixation, and restores soil texture.  %. c. Increased Productivity (Long-Term) Though yields may remain constant or slightly dip initially, over time, soil fertility improves, leading to st",
+    "application_process": "Step 1: Farmer Registration Farmers register online through the Raitha Samparka Kendra (RSK) or the Karnataka Agriculture Department portal. Step \n\nStep\n\nStep 2: Certification and Marketing Farmers completing the transition to organic/natural farming receive certification and are connected to markets through FPOs and organic bazaars. Variations in Jeevamrutha preparation methods affect consistency in results.",
+    "official_website": "https://raitamitra.karnataka.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-425-1122",
+    "created_at": "2025-11-12T18:52:49.922Z",
+    "updated_at": "2025-11-12T18:52:49.922Z"
+  },
+  {
+    "idx": 10,
+    "id": "4bed2cbf-3a4b-4db9-812c-7aa2d4111413",
+    "scheme_code": "RYTHU-BHAROSA",
+    "scheme_name": "Dr. YSR Rythu Bharosa Scheme",
+    "full_name": "Dr. YSR Rythu Bharosa Scheme (Andhra Pradesh)",
+    "description": "(Comprehensive Farmer Investment Support Scheme) The Dr. YSR Rythu Bharosa Scheme is one of the most significant welfare initiatives launched by the Government of Andhra Pradesh to ensure financial stability, dignity, and inclusive support for farmers. Introduced on October 15, 2019, under the leadership of Chief Minister Y. S. Jagan Mohan Reddy, the scheme aims to provide direct income assistance to all eligible farmer families, including tenant farmers and those cultivating assigned or forest ...",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Eligible Beneficiaries: Some duplication with PM-KISAN and other schemes requires administrative reconciliation."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Land Ownership Documents",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "benefits": "Increased Agricultural Productivity Timely availability of funds enables on-time sowing and improved yield quality.  f. Transparency and Governance Th Insurance, Free Borewell Scheme, and YSR Jala Kala (irrigation) — creating a comprehensive support system for farmers. The scheme’s long-term implications are profound: Strengthened financial independence of r",
+    "application_process": "Step 1: Identification of Beneficiaries Beneficiaries are identified using village secretariats (Grama Sachivalayams) and verified through the e-Crop database, ensuring inclusion of both owners and tenants. Step \n\nStep\n\nStep 2: Monitoring and Grievance Redressal The State Real-Time Governance Society (RTGS) monitors disbursements, while grievance redressal is managed through local village secretariats and helplines.",
+    "official_website": "https://rythubharosa.ap.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.923Z",
+    "updated_at": "2025-11-12T18:52:49.923Z"
+  },
+  {
+    "idx": 11,
+    "id": "880c01ac-c209-40f7-8bea-65636f59e81f",
+    "scheme_code": "KISAN-AYODHYA",
+    "scheme_name": "Mukhyamantri Kisan Ayodhya Yojana",
+    "full_name": "Mukhyamantri Kisan Ayodhya Yojana (Bihar)",
+    "description": "(Chief Minister’s Agricultural Modernization and Empowerment Scheme) The Mukhyamantri Kisan Ayodhya Yojana is a transformative agricultural initiative launched by the Government of Bihar to modernize the state’s agriculture sector, enhance productivity, and strengthen rural livelihoods. Introduced under the leadership of Chief Minister Nitish Kumar, the scheme aims to promote the adoption of advanced agricultural technologies, facilitate mechanization, improve seed quality, and build irrigation ...",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "Eligible Beneficiaries: Bihar’s recurring floods in the Kosi and Gandak basins cause periodic setbacks to agricultural development efforts."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "Bihar’s agricultural ecosystem: a.  Enhanced Productivity Adoption of mechanization and improved seed varieties has increased yields by 20–30% for major crops. b. Reduced Labor Burden Modern farm subsidy delivery. In the long term, the scheme aims to transform Bihar from a low-productivity agrarian state to a modern, mechanized, and resilient agricultural powerhouse. % for major crops. b. Reduced Labor Burden Modern farm implements have significantly reduced dependence on manual labor, lowering ...",
+    "application_process": "Step 1: Farmer Registration Farmers register through the official agriculture portal of Bihar (dbtagriculture.bihar.gov.in) or at Krishi Vigyan Kendras and Block Agriculture Offices. Step \n\nStep\n\nStep 2: Monitoring The Department of Agriculture uses GIS and digital tracking systems to monitor implementation and ensure accountability. Implementation requires coordination across multiple departments (Agriculture, Power, Water Resources), which sometimes leads to delays.",
+    "official_website": "https://dbt.bihar.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-345-2200",
+    "created_at": "2025-11-12T18:52:49.924Z",
+    "updated_at": "2025-11-12T18:52:49.924Z"
+  },
+  {
+    "idx": 12,
+    "id": "9d8d5d61-2f21-4a3c-bdd3-8fa7bf18d55a",
+    "scheme_code": "FARM-POND",
+    "scheme_name": "Chief Minister’s Farm Pond Scheme",
+    "full_name": "Chief Minister’s Farm Pond Scheme (Tamil Nadu)",
+    "description": "(Rainwater Harvesting and Drought Mitigation Initiative) The Chief Minister’s Farm Pond Scheme, launched by the Government of Tamil Nadu, is a flagship initiative aimed at promoting rainwater harvesting, groundwater recharge, and drought resilience across the state’s agricultural sector. The scheme provides financial assistance and technical guidance to farmers for the construction of farm ponds — small, scientifically designed water storage structures built on farmlands to harvest and conserve ...",
+    "category": "irrigation",
+    "eligibility": [
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Eligible Beneficiaries: In areas with erratic rainfall, ponds remain underutilized or dry for long periods."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "Tamil Nadu’s rural landscape.  a. Water Security Farm ponds have improved rainwater harvesting capacity, ensuring year-round water availability for irrigation and livestock. b. Drought Mitigat benefits: Sustainable Groundwater Recovery: Farm ponds have contributed to raising groundwater levels by 0.5–1 meter in several drought-prone blocks. Resilient Agriculture: The program strengthens climate ad %, particularly in paddy, groundnut, pulses, and vegetables. d.",
+    "application_process": "Step 1: Application Farmers apply through the District Agriculture Office or online on the Agriculture Department portal (www.tnagriculture.gov.in). Step \n\nStep\n\nStep 2: Maintenance and Monitoring Farmers are trained on maintenance practices, such as desilting and bund strengthening, to ensure long-term sustainability. Effective collaboration between the Agriculture, Rural Development, and Water Resources Departments remains essential but sometimes inconsistent.",
+    "official_website": "https://agri.tn.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-425-1122",
+    "created_at": "2025-11-12T18:52:49.924Z",
+    "updated_at": "2025-11-12T18:52:49.924Z"
+  },
+  {
+    "idx": 13,
+    "id": "afa46163-1f11-4046-997d-b3a5f1cbf064",
+    "scheme_code": "KRISHONNATI",
+    "scheme_name": "Krishonnati Yojana",
+    "full_name": "Krishonnati Yojana (Tripura)",
+    "description": "(Mission for Agricultural Development and Farmer Prosperity) The Krishonnati Yojana is a flagship agricultural development initiative launched by the Government of Tripura to ensure holistic growth and modernization of the state’s agriculture and allied sectors. The term “Krishonnati” translates to “Agricultural Prosperity”, and the scheme perfectly embodies that goal — aiming to improve productivity, promote technological adoption, and increase the income of farmers through integrated, sustaina...",
+    "category": "general",
+    "eligibility": [
+      "Small and marginal farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefits": "%. b. Crop Diversification Farmers are increasingly cultivating horticultural and high-value crops, reducing dependence on low-profit paddy. c. Irrigat",
+    "application_process": "Step 1: Planning and Budgeting District-level plans are prepared based on crop patterns, soil types, and water resources. Step \n\nStep\n\nStep 2: Financial Transfer All subsidies and incentives are directly credited to beneficiaries’ Aadhaar-linked bank accounts via Direct Benefit Transfer (DBT). Awareness about subsidies and application procedures is lower in remote tribal belts.",
+    "official_website": "https://agri.tripura.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.924Z",
+    "updated_at": "2025-11-12T18:52:49.924Z"
+  },
+  {
+    "idx": 14,
+    "id": "62d4fd33-04ea-4e7e-862c-8710fef0d07f",
+    "scheme_code": "FASAL-BIMA",
+    "scheme_name": "Fasal Bima Yojana",
+    "full_name": "Fasal Bima Yojana (Haryana)",
+    "description": "(State Implementation of Pradhan Mantri Fasal Bima Yojana – PMFBY) The Fasal Bima Yojana (Haryana) is the state-level implementation of the Pradhan Mantri Fasal Bima Yojana (PMFBY) — the Government of India’s flagship crop insurance program introduced in 2016. Haryana, being a major agrarian state, has customized and strengthened the implementation of PMFBY to provide financial protection to farmers against crop losses due to natural calamities, pests, and diseases.",
+    "category": "insurance",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Sharecroppers",
+      "Eligible Beneficiaries: Synchronizing land records, crop data, and bank accounts requires continuous digital updates."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": "Risk Protection Farmers are protected against crop losses caused by unforeseen events, ensuring financial stability even in disaster years.  b. Rapid Claim Settlement Haryana has pioneered digita insurance details in real time. e. Financial Inclusion Farmers receive compensation directly into bank accounts, promoting transparency and financial empowerment. f. Social Stability By preventing income shock insurance payouts help maintain rural consumption even in bad crop years.",
+    "application_process": "Step 1: Notification Before each cropping season, the government notifies eligible crops and areas, specifying premium rates and insurance companies. Step \n\nStep\n\nStep 2: Claim Settlement After verification, insurance claims are directly transferred to the farmer’s account via DBT. Step",
+    "official_website": "https://agri.haryana.gov.in",
+    "deadline": "Varies by season",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.925Z",
+    "updated_at": "2025-11-12T18:52:49.925Z"
+  },
+  {
+    "idx": 15,
+    "id": "67406c09-eb59-4a18-9b4e-f4af515ffe36",
+    "scheme_code": "SAUR-KRISHI",
+    "scheme_name": "Mukhyamantri Saur Krishi Vahini Yojana",
+    "full_name": "Mukhyamantri Saur Krishi Vahini Yojana (Maharashtra)",
+    "description": "(Chief Minister’s Solar-Agriculture Feeder / Solar Irrigation Initiative) The Mukhyamantri Saur Krishi Vahini Yojana (MSKVY) is a flagship initiative by the Government of Maharashtra aimed at promoting solar-powered irrigation and agricultural power supply through dedicated solar infrastructure. The scheme seeks to shift agriculture’s dependence away from conventional, grid-tied diesel/power pumps toward renewable solar energy, thereby ensuring reliable power for farmers, reducing input cost, an...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "must typically have agricultural land, pump connectivity, and meet state criteria for solar pump subsidy. (Though this is more specific to pump scheme"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Reduced Input Costs for Farmers: With reliable day-time solar power, farmers save on expensive diesel and grid power.  In effect, irrigation becomes cheaper and predictable. Improved Irrigation Acce Benefits: MSEDCL benefits by reducing subsidy burden for agricultural electricity, improving load management, and reducing peak demand on grid. Large Scale Employment: Solar infrastructure generates jobs (in",
+    "application_process": "The implementation of MSKVY follows a structured process:",
+    "official_website": "https://agri.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.925Z",
+    "updated_at": "2025-11-12T18:52:49.925Z"
+  },
+  {
+    "idx": 16,
+    "id": "c1d2013f-6766-45ed-824f-746db0fc5ca9",
+    "scheme_code": "PASHU-DHAN",
+    "scheme_name": "Pashu Dhan Bima Yojana— covering its background, objectives, features, eligibili",
+    "full_name": "Pashu Dhan Bima Yojana (Himachal Pradesh) — covering its background, objectives, features, eligibility, implementation, benefits, challenges and long-term impact.",
+    "description": "The Pashu Dhan Bima Yojana in Himachal Pradesh is a livestock insurance scheme intended to provide financial protection to farmers/animal-husbandry households against losses caused by the death of insured animals. In the hilly state where animal husbandry forms an important part of rural livelihoods, such a scheme serves as a risk-mitigation measure — helping avoid debt, stabilise incomes, and encourage investment in livestock rearing.",
+    "category": "animal_husbandry",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Residents of himachal pradesh and livestock owner"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Risk Mitigation: Provides financial protection to livestock owners, so that a sudden death doesn’t push the farmer into distress or debt.  Encouragement of Livestock: W Insurance Culture: Helps spread awareness of insurance among small and marginal farmers. Better Data & Monitoring: Through tagging and state databases, the husbandry department builds capacity for better lives Support: With subsidies for BPL/SC/OBC categories, the scheme ensures inclusion of vulnerable groups — e.g.",
+    "application_process": "The implementation of the scheme includes the following steps:",
+    "official_website": "https://hpagrisnet.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.925Z",
+    "updated_at": "2025-11-12T18:52:49.925Z"
+  },
+  {
+    "idx": 17,
+    "id": "c519437d-728a-4efd-99ab-52782ef3454b",
+    "scheme_code": "PM-KISAN",
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi",
+    "full_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN): A Comprehensive Overview",
+    "description": "Agriculture has always been the backbone of the Indian economy, providing livelihood to more than half of the country's population. However, small and marginal farmers often face severe financial stress due to low productivity, lack of access to credit, high input costs, and unpredictable weather conditions. Recognizing these challenges, the Government of India launched the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme on 1st February 2019 to provide direct income support to farmers and he...",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": "Benefits Income Security: PM-KISAN provides farmers a fixed, assured income that helps them meet immediate needs and invest in farming inputs. Reduced Debt Dependency: With direct cash inflows, farmers are l assistance helps farmers invest in better seeds, fertilizers, and irrigation, leading to higher yields. Social Benefits Rural Empowerment: The scheme empowers small farmers by giving them financial autonomy and benefit directly, strengthening their role in household decision-making.",
+    "application_process": "The entire cost of the PM-KISAN scheme is borne by the Government of India. As of 2025, the government has transferred over ₹3 lakh crore to farmers’ bank accounts since its inception. Each installment disburses thousands of crores of rupees nationwide, making it one of the largest direct cash transfer programs globally. Installment Pattern: 1st Installment: December – March 2nd Installment: April – July 3rd Installment: August – November This pattern ensures farmers receive timely financial sup...",
+    "official_website": "https://pmkisan.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "155261",
+    "created_at": "2025-11-12T18:52:49.926Z",
+    "updated_at": "2025-11-12T18:52:49.926Z"
+  },
+  {
+    "idx": 18,
+    "id": "682c43f0-e63b-427b-9228-1078275bbf92",
+    "scheme_code": "FASAL-BIMA",
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana",
+    "full_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY): A Comprehensive Overview",
+    "description": "Agriculture remains the cornerstone of India’s economy, contributing significantly to GDP and employing nearly half of the country’s population. However, Indian agriculture is heavily dependent on the monsoon, and frequent droughts, floods, pest attacks, and cyclones expose farmers to severe income volatility and debt burdens. Crop failures due to natural calamities often push farmers into a cycle of poverty, leading to social and economic distress.",
+    "category": "insurance",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers",
+      "Eligible Farmers: All farmers growing notified crops in notified areas, including both loanee (those who have taken crop loans) and non-loanee farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card"
+    ],
+    "benefits": "It has transformed the rural risk management system.  Economic Benefits: Financial Protection: Farmers receive compensation for crop losses, preventing them f Benefits: Reduced Farmer Suicides: Financial security reduces psychological stress and agricultural distress. Improved Livelihood Stability: Ensures consistent income and sustenance, promoting rural stabilit % of PMFBY beneficiaries were satisfied, and 60% used compensation to reinvest in farming.",
+    "application_process": "The PMFBY operates on a shared premium subsidy model: Central Government: 50% of the premium subsidy. State Government: 50% of the premium subsidy. Farmers: Pay a nominal share as mentioned above. For North Eastern States, the premium sharing ratio is 90:10 (Centre: State) due to higher vulnerability.",
+    "official_website": "https://agri.haryana.gov.in",
+    "deadline": "Varies by season",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.926Z",
+    "updated_at": "2025-11-12T18:52:49.926Z"
+  },
+  {
+    "idx": 19,
+    "id": "945981f2-8e0c-4f56-b911-6dff3f398c03",
+    "scheme_code": "FARM-POND",
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana",
+    "full_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY): A Comprehensive Overview",
+    "description": "Water is the lifeline of agriculture, and in India — where nearly half of agricultural land depends on rainfall — the availability and efficient use of water resources are critical for food security and rural livelihoods. Irregular monsoons, climate change, and inefficient irrigation systems have long hindered agricultural productivity. Recognizing this, the Government of India launched the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) on July 1, 2015, with the vision of ensuring “Har Khet Ko P...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "%, saving water for more crops. Watershed Projects: Treated over 80 lakh hectares of rainfed area under the watershed development component. Reduced so % higher yields due to timely irrigation. Income Growth: Higher productivity and reduced water costs improved farmers’ income levels. Water Conservatio",
+    "application_process": "PMKSY is implemented through coordinated action between the Centre, States, and Local Bodies. Step-by-Step Process: Planning: States prepare State Irrigation Plans (SIPs) and District Irrigation Plans (DIPs) integrating all irrigation resources. Approval: The plans are approved by the National Steering Committee (NSC) headed by the Prime Minister and the National Executive Committee (NEC) chaired by the Vice Chairman, NITI Aayog.",
+    "official_website": "https://agri.tn.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-425-1122",
+    "created_at": "2025-11-12T18:52:49.927Z",
+    "updated_at": "2025-11-12T18:52:49.927Z"
+  },
+  {
+    "idx": 20,
+    "id": "49b45532-0d28-4990-8f3e-38e7cf46bd03",
+    "scheme_code": "FASAL-BIMA",
+    "scheme_name": "Kisan Credit CardScheme",
+    "full_name": "Kisan Credit Card (KCC) Scheme: A Comprehensive Overview",
+    "description": "Agriculture is the backbone of India’s economy, employing nearly half of the population. However, access to timely and affordable credit has long been a major challenge for Indian farmers. Traditionally, farmers depended on informal moneylenders who charged exorbitant interest rates, pushing them into cycles of debt and poverty. To solve this long-standing problem, the Government of India introduced the Kisan Credit Card (KCC) Scheme in August 1998.",
+    "category": "insurance",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Voter ID",
+      "Land Records",
+      "Land Ownership Documents"
+    ],
+    "benefits": "Benefits Timely Credit Availability: Farmers can meet input requirements promptly without borrowing from informal sources. Lower Interest Rates: Subsidized rates reduce the cost of borrowing, increasing prof Supports diversification into dairy, fisheries, and horticulture. Social Benefits Financial Inclusion: Brings rural farmers into the formal banking system. Women Empowerment: Many banks promote joint KCCs fo Benefits Transparency: Digital KCC ensures direct and traceable financial transactio...",
+    "application_process": "application process is straightforward and farmer-friendly: Application Form: Farmers can obtain the form from any bank branch or apply online through the PM Kisan or respective bank portals. Submission of Docum online through the PM Kisan or respective bank portals. Submission of Documents: Proof of Identity (Aadhaar, PAN, Voter ID) Proof of Address Land Records (7",
+    "official_website": "https://agri.haryana.gov.in",
+    "deadline": "Varies by season",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.927Z",
+    "updated_at": "2025-11-12T18:52:49.927Z"
+  },
+  {
+    "idx": 21,
+    "id": "2cbe70df-e860-4eea-b2ab-b3143a310128",
+    "scheme_code": "SHC",
+    "scheme_name": "Soil Health CardScheme",
+    "full_name": "Soil Health Card (SHC) Scheme: A Comprehensive Overview",
+    "description": "Soil is the foundation of agriculture — the living medium that supports crops, provides nutrients, and sustains productivity. Over the years, however, Indian soils have suffered from nutrient depletion, overuse of fertilizers, and degradation due to intensive farming, poor irrigation practices, and lack of awareness. This has resulted in declining crop yields and soil fertility. To address this critical issue, the Government of India launched the Soil Health Card (SHC) Scheme on 19th February 20...",
+    "category": "soil_health",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Soil Health Card: Digital cards available through government portals for easier access.  A. Economic Benefits Reduced Input Cost: Farmers save money b Benefits Soil Conservation: Reduces degradation and maintains long-term soil fertility. Reduced Pollution: Prevents chemical runoff into water bodies. Improved Biodiversity: Encourages organic practices that support beneficial microorganisms. C. Social Benefits Farmer Awareness: Educates farmers about soil science and modern agricultural practices...",
+    "application_process": "Step 1: Soil Sample Collection Soil samples are collected from every \n\nStep\n\nStep 2: Data Analysis The soil’s nutrient content and physical properties are analyzed using standardized protocols. Step \n\nStep",
+    "official_website": "https://soilhealth.dac.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.928Z",
+    "updated_at": "2025-11-12T18:52:49.928Z"
+  },
+  {
+    "idx": 22,
+    "id": "aa0a66b6-1fcd-4bf8-9f2a-00814abc445e",
+    "scheme_code": "PMKSY",
+    "scheme_name": "Paramparagat Krishi Vikas Yojana",
+    "full_name": "Paramparagat Krishi Vikas Yojana (PKVY): A Comprehensive Overview",
+    "description": "Agriculture in India has evolved rapidly over the decades — but modernization and the excessive use of chemical fertilizers, pesticides, and hybrid seeds have also led to soil degradation, declining biodiversity, and health concerns due to chemical residues in food. To restore ecological balance, promote sustainable farming, and revive traditional practices, the Government of India launched the Paramparagat Krishi Vikas Yojana (PKVY) in 2015-16 under the National Mission on Sustainable Agricultu...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Benefited: More than 20 lakh farmers trained and supported. Clusters Formed: Over 20,000 organic clusters created across 32 states and UTs. Increased Market Presence: Organic produce from PKVY farmers is now Benefits Reduced Input Costs: Farmers save 20–30% by eliminating chemical fertilizers and pesticides. Higher Profit Margins: Organic products fetch 20–50% higher prices in domestic and export markets. Enhanc Benefits Soil Conservation: Restores microbial balance and reduces erosion.",
+    "application_process": "portal. Marketing & Branding: Certified organic produce is marketed through local and national organic platforms.",
+    "official_website": "https://pmksy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "011-23389714",
+    "created_at": "2025-11-12T18:52:49.928Z",
+    "updated_at": "2025-11-12T18:52:49.928Z"
+  },
+  {
+    "idx": 23,
+    "id": "9749d6d0-814f-4d41-b976-219931b97a8b",
+    "scheme_code": "FASAL-BIMA",
+    "scheme_name": "Agriculture Infrastructure Fund",
+    "full_name": "Agriculture Infrastructure Fund (AIF): A Comprehensive Overview",
+    "description": "Agriculture has always been the backbone of India’s economy, but one of its persistent challenges has been the lack of adequate post-harvest infrastructure — such as storage, processing, logistics, and marketing facilities. Despite being one of the largest producers of grains, fruits, and vegetables, India loses an estimated 15–20% of its agricultural produce annually due to inadequate storage, poor supply chain management, and lack of processing facilities.",
+    "category": "insurance",
+    "eligibility": [
+      "All farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Loan Sanction Letter",
+      "Project Proposal"
+    ],
+    "benefits": "Its structure encourages banks and financial institutions to lend for agricultural infrastructure creation.  Key Financial Features: Corpus: ₹1,00,000 crore to loans up to ₹2 crore. Applicable for a maximum of 7 years. Credit Guarantee: Managed through Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE). Covers loans up to ₹2 crore. Moratorium: Benefits Reduction in Post-Harvest Losses: Improved storage and processing facilities reduce wastage of perishable produce.",
+    "application_process": "submit their proposals through the AIF online portal. Evaluation: Projects are evaluated by lending institutions based on financial viability and sectoral need. Loan Sanction and Disbursement: Banks sanctio centers and rice mills Supply chain and logistics facilities E-marketing platforms and collection centers B. Community Farming Assets Soil testing laborator centers Solar pumps and irrigation systems Organic fertilizer units and bio-stimulant units Smart and precision farming tools C.",
+    "official_website": "https://agri.haryana.gov.in",
+    "deadline": "Varies by season",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.928Z",
+    "updated_at": "2025-11-12T18:52:49.928Z"
+  },
+  {
+    "idx": 24,
+    "id": "873ba3e3-f481-4055-a172-49bc30cafe97",
+    "scheme_code": "PMKSY",
+    "scheme_name": "National Agriculture Market",
+    "full_name": "National Agriculture Market (e-NAM): A Comprehensive Overview",
+    "description": "Agriculture has always been the cornerstone of India’s economy, employing nearly half of the workforce. However, despite being the world’s second-largest producer of food, Indian farmers have historically struggled to get fair prices for their produce. This was largely due to fragmented and inefficient agricultural marketing systems, dominated by intermediaries, limited access to markets, and lack of transparency in pricing.",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": "% higher prices compared to local markets. Uttar Pradesh: Digital payments to farmers improved transparency and eliminated delayed payments. Gujarat: O % and increased farmer income by 12–15% on average.",
+    "application_process": "Step 1: Farmer Registration Farmers register on the e-NAM portal (www.enam.gov.in ) using Aadhaar, bank account, and mobile details. Step \n\nStep\n\nStep 2: Weighing and Sale Confirmation Produce is weighed using digital scales, and sale details are confirmed electronically. Step \n\nStep",
+    "official_website": "https://pmksy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "011-23389714",
+    "created_at": "2025-11-12T18:52:49.929Z",
+    "updated_at": "2025-11-12T18:52:49.929Z"
+  },
+  {
+    "idx": 25,
+    "id": "dec1b04c-4083-49e9-971d-5a52c97bc539",
+    "scheme_code": "PM-KISAN",
+    "scheme_name": "Pradhan Mantri Kisan Maan-Dhan Yojana",
+    "full_name": "Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY): A Comprehensive Overview",
+    "description": "Farming in India is not merely an occupation — it is a way of life for over half of the country’s population. However, most Indian farmers are small and marginal, with limited land holdings and irregular incomes. Their economic security is often vulnerable to risks like crop failure, market fluctuations, and natural disasters. Unlike salaried employees, farmers typically lack access to pension or retirement benefits, leaving them financially insecure in old age.",
+    "category": "income_support",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "Eligible Farmers: Age Group: Farmers between 18 to 40 years can enroll. Landholding: Farmers owning up to 2 hectares of cultivable land as per land re"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": "Benefits Assured Pension: Provides guaranteed ₹3,000/month pension post-retirement. Matching Government Contribution: Government contributes equally to the farmer’s pension fund. Financial Security: Protects Benefits Dignity in Old Age: Farmers can live independently without depending on children or relatives. Social Inclusion: Brings small and marginal farmers under India’s organized pension system.",
+    "application_process": "Submit Aadhaar, landholding, and bank account details. Fill out a simple online form at CSCs. Biometric authentication via Aadhaar for identity verification. Auto-Debit Mechanism: The monthly contribution i portal: https://pmkmy.gov.in Registration Process: Submit Aadhaar, landholding, and bank account details. Fill out a simple online form at CSCs. Biometric a",
+    "official_website": "https://pmkisan.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "155261",
+    "created_at": "2025-11-12T18:52:49.929Z",
+    "updated_at": "2025-11-12T18:52:49.929Z"
+  },
+  {
+    "idx": 26,
+    "id": "ff4e1753-6865-4c52-87e5-08e97f2db2cf",
+    "scheme_code": "PMKSY",
+    "scheme_name": "Sub-Mission on Agricultural Mechanization",
+    "full_name": "Sub-Mission on Agricultural Mechanization (SMAM): A Comprehensive Overview",
+    "description": "Agriculture in India has traditionally been labor-intensive, heavily dependent on manual effort and animal power. While mechanization has transformed agriculture in developed countries, India’s vast smallholder farming system and regional disparities have slowed down its adoption. To bridge this gap and promote the use of modern agricultural machinery and equipment, the Government of India launched the Sub-Mission on Agricultural Mechanization (SMAM) in 2014-15 under the National Mission on Agri...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents"
+    ],
+    "benefits": "Mechanization Level: Increased from 40% (2014) to 55% (2024) on average.  States with High Mechanization: Punjab, Haryana, Uttar Pradesh, Maharashtra, and Tamil Nadu. Eastern and NE St Benefits Increased Productivity: Mechanization ensures timely sowing and harvesting, improving yield by 15–25%. Reduced Labor Costs: Mechanized operations reduce dependency on manual labor. Higher Income: Ef Benefits Empowerment of Small Farmers: CHCs and FPOs provide machinery access to smallholders at affordable...",
+    "application_process": "submit them to the Ministry. Fund Allocation: Funds are released based on performance, coverage, and regional priorities. Beneficiary Identification: Farmers apply through Agriculture Mechanization Sub-Miss Portal or local agriculture offices. Monitoring: Progress is tracked using the Direct Benefit Transfer (DBT) system and digital dashboards. Training & Evalu",
+    "official_website": "https://pmksy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "011-23389714",
+    "created_at": "2025-11-12T18:52:49.930Z",
+    "updated_at": "2025-11-12T18:52:49.930Z"
+  },
+  {
+    "idx": 27,
+    "id": "65c8e660-3726-41ab-9500-9c1a8a35c2f7",
+    "scheme_code": "PM-KISAN",
+    "scheme_name": "Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana",
+    "full_name": "Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana (Maharashtra)",
+    "description": "The Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana (MJPSKMY) is one of the most significant farmer welfare initiatives undertaken by the Government of Maharashtra. It represents the state’s effort to address one of the most pressing challenges in the agricultural sector—the burden of farm indebtedness. The scheme was launched with the primary goal of providing debt relief to distressed farmers, ensuring their reintegration into the formal credit system, and revitalizing the rural agrarian eco...",
+    "category": "income_support",
+    "eligibility": [
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Sharecroppers",
+      "required to present documents like: Aadhaar Card Loan account passbook Land ownership documents (7/12 extract) Phase 3 – Final Approval and Waiver Rel",
+      "eligible farmers and extend fresh lines of credit, ensuring that farmers could resume cultivation without financial hurdles. The integration with the "
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Land Ownership Documents"
+    ],
+    "benefits": "Positive Impacts: Debt-free farmers were able to reinvest in agriculture, purchase better-quality inputs, and plan for diversified cropping, indirectly boosting rural employment.",
+    "application_process": "The Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana had an estimated financial outlay of ₹20,000 crore, making it one of the largest farmer loan waiver programs in the state’s history. The funds were released in tranches, with priority given to the most distressed districts such as Vidarbha, Marathwada, and Nashik regions.",
+    "official_website": "https://pmkisan.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "155261",
+    "created_at": "2025-11-12T18:52:49.930Z",
+    "updated_at": "2025-11-12T18:52:49.930Z"
+  },
+  {
+    "idx": 28,
+    "id": "15f72a1a-4453-4963-bc0c-44a8eb961569",
+    "scheme_code": "JALYUKTA-SHIVAR",
+    "scheme_name": "Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana",
+    "full_name": "Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana (Maharashtra)",
+    "description": "The Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana (DBAKSY) is one of Maharashtra’s most progressive and inclusive agricultural schemes. It is designed exclusively for Scheduled Caste (SC) and Neo-Buddhist farmers, with the aim of promoting agricultural self-reliance (Swavalamban) and reducing dependency on erratic monsoon rainfall. The scheme offers 100% subsidy for the creation of sustainable irrigation sources such as wells, pipelines, and micro-irrigation systems. Named after Dr.",
+    "category": "irrigation",
+    "eligibility": [
+      "SC/ST farmers",
+      "required to submit supporting documents such as caste certificate, land ownership proof (7/12 extract), Aadhaar card, and bank account details. Post-i"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": "The Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana has made measurable progress in improving agricultural resilience among SC and Neo-Buddhist farmers. a. Improved Water Availability Thousands of farmers who previously depended solely on rainfall now have assured irrigation sources, allowing them to cultivate more than one crop annually. b. Crop Diversification Farmers have shifted from traditional single-crop (rainfed) cultivation to multi-cropping and horticultural crops, enhancing both prod...",
+    "application_process": "Step 1: Application Farmers can apply through the District Agriculture Office or online portals when available. The application form requires detailed information on landholding, water source, and desired infrastructure. Step \n\nStep\n\nStep 2: Monitoring and Payment Periodic monitoring is done by district officials. After completion and verification, the government directly releases payments to contractors or reimbursements to beneficiaries via Direct Benefit Transfer (DBT). The scheme primarily focuses on water infrastructure; however, integrating it with training, soil health management, and crop planning could enhance its effectiveness.",
+    "official_website": "https://jalyuktashivar.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.930Z",
+    "updated_at": "2025-11-12T18:52:49.930Z"
+  },
+  {
+    "idx": 29,
+    "id": "294f9925-d6db-49e0-a5d8-cd7ea8123e48",
+    "scheme_code": "JALYUKTA-SHIVAR",
+    "scheme_name": "Birsa Munda Krishi Kranti Yojana",
+    "full_name": "Birsa Munda Krishi Kranti Yojana (Maharashtra)",
+    "description": "The Birsa Munda Krishi Kranti Yojana (BMKKY) is a flagship agricultural development initiative launched by the Government of Maharashtra to empower farmers belonging to the Scheduled Tribe (ST) category. The scheme provides 100% financial assistance for creating irrigation infrastructure — such as wells, farm ponds, pipelines, and micro-irrigation systems — aimed at ensuring water security and sustainable agricultural growth among tribal farmers.",
+    "category": "irrigation",
+    "eligibility": [
+      "SC/ST farmers",
+      "required: Caste certificate (ST), Aadhaar card, Land ownership proof (7/12 extract), Bank account details, Passport-size photographs, Declaration form"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details",
+      "Passport Size Photos",
+      "Caste Certificate"
+    ],
+    "benefits": "Benefits By promoting farm ponds and micro-irrigation systems, the scheme supports water conservation, groundwater recharge, and climate resilience.",
+    "application_process": "Step 1: Application Farmers apply through the District Agriculture Office or online government portals. Applications are accepted in specific timeframes each year. Step \n\nStep\n\nStep 2: Monitoring and Payment On completion, government officers inspect the site for verification. Payments are made directly through Direct Benefit Transfer (DBT) to the concerned contractor or farmer account. Irrigation infrastructure without proper crop diversification and market linkages limits the full potential of economic gain.",
+    "official_website": "https://jalyuktashivar.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.931Z",
+    "updated_at": "2025-11-12T18:52:49.931Z"
+  },
+  {
+    "idx": 30,
+    "id": "02aa0e89-f459-42ba-901e-a3fc7dc350e7",
+    "scheme_code": "JALYUKTA-SHIVAR",
+    "scheme_name": "Magel Tyala Shet-Tale Yojana",
+    "full_name": "Magel Tyala Shet-Tale Yojana (Farm Pond Scheme, Maharashtra)",
+    "description": "The Magel Tyala Shet-Tale Yojana, translated as “Farm Pond for Everyone Who Demands It,” is a flagship water conservation and irrigation scheme introduced by the Government of Maharashtra to promote rainwater harvesting at the individual farm level. This initiative represents a crucial step towards mitigating the state’s chronic drought problems and ensuring sustainable irrigation for small and marginal farmers.",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "must meet the following conditions: Administrative delays in DBT transfer sometimes discourage farmers from new applications."
+    ],
+    "required_documents": [
+      "Bank Account Details"
+    ],
+    "benefits": "Benefits The scheme promotes decentralized water storage and reduces soil erosion, contributing to sustainable land management.",
+    "application_process": "Step 1: Application Farmers submit applications online through the MahaDBT portal or at the Taluka Agriculture Office. They must include details such as land survey number, pond location, and bank account information. Step \n\nStep\n\nStep 2: Verification and Payment After completion, the farm pond is inspected, photographed, and geo-tagged using GPS. Once verified, the subsidy amount is credited directly to the farmer’s account through DBT. Some remote villages are unaware of the online application procedure or documentation process.",
+    "official_website": "https://jalyuktashivar.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.931Z",
+    "updated_at": "2025-11-12T18:52:49.931Z"
+  },
+  {
+    "idx": 31,
+    "id": "58226876-822f-4a40-a533-649330198752",
+    "scheme_code": "PMKSY",
+    "scheme_name": "Bhausaheb Fundkar Falbag Lagvad Yojana",
+    "full_name": "Bhausaheb Fundkar Falbag Lagvad Yojana (Orchard Plantation Scheme, Maharashtra)",
+    "description": "The Bhausaheb Fundkar Falbag Lagvad Yojana, launched by the Government of Maharashtra, is a transformative horticulture development program aimed at promoting fruit orchard cultivation (Falbag) across the state. The scheme provides 100% financial assistance to farmers for the establishment of fruit plantations such as mango, guava, cashew, citrus, and pomegranate over a period of three years. Named in honor of Late Bhausaheb Fundkar, a veteran leader and former Minister of Agriculture in Maharas...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "qualify for the Bhausaheb Fundkar Falbag Lagvad Yojana, the farmer must meet the following conditions: Droughts, unseasonal rain, or hailstorms can da"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents"
+    ],
+    "benefits": "support and proper guidance.",
+    "application_process": "Step 1: Application Farmers can apply online via the MahaDBT portal or submit applications at the Taluka Agriculture or Horticulture Office. Step \n\nStep\n\nStep 2: Inspection and Subsidy Disbursement Officials periodically inspect the plantation for survival and growth. Subsidy is released in installments based on inspection reports. Step",
+    "official_website": "https://pmksy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "011-23389714",
+    "created_at": "2025-11-12T18:52:49.932Z",
+    "updated_at": "2025-11-12T18:52:49.932Z"
+  },
+  {
+    "idx": 32,
+    "id": "70a28716-5550-4a8d-a9b4-48789aa45813",
+    "scheme_code": "JALYUKTA-SHIVAR",
+    "scheme_name": "Mukhyamantri Saur Krishi Pump Yojana",
+    "full_name": "Mukhyamantri Saur Krishi Pump Yojana (Solar Pump Scheme, Maharashtra)",
+    "description": "The Mukhyamantri Saur Krishi Pump Yojana (MSKPY), launched by the Government of Maharashtra, is one of the most significant renewable energy initiatives aimed at transforming the agricultural irrigation system of the state. The scheme promotes the use of solar-powered irrigation pumps to provide farmers with reliable, sustainable, and cost-effective access to irrigation water. Introduced in 2018, the scheme aligns with both Maharashtra’s Renewable Energy Policy and India’s national goal of achie...",
+    "category": "irrigation",
+    "eligibility": [
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "must fulfill the following eligibility conditions: Smaller capacity pumps may not meet the needs of large landholders."
+    ],
+    "required_documents": [
+      "Aadhaar Card"
+    ],
+    "benefits": "Benefits The shift from diesel to solar power significantly reduces CO₂ emissions, contributing to climate-friendly agriculture. d. Empowerment of Remote Farmers Farmers in off-grid villages now enjoy irriga rupees annually, improving their net income. c. Environmental Benefits The shift from diesel to solar power significantly reduces CO₂ emissions, contributi",
+    "application_process": "Step 1: Application Farmers can apply online through the MSEDCL portal or at the Taluka Agriculture Office. The application includes details about land, water source, and required pump capacity. Step \n\nStep\n\nStep 2: Monitoring and Maintenance The system comes with a five-year maintenance warranty provided by the supplier. Performance data is monitored through smart meters and remote communication systems in many areas. Delays in fund disbursement or vendor selection occasionally slow progress.",
+    "official_website": "https://jalyuktashivar.maharashtra.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.933Z",
+    "updated_at": "2025-11-12T18:52:49.933Z"
+  },
+  {
+    "idx": 33,
+    "id": "c601cb8f-edc9-4b48-bd56-de28d632e648",
+    "scheme_code": "PMKSY",
+    "scheme_name": "Vikhe Patil Krishi Pratishthan Subsidy Scheme",
+    "full_name": "Vikhe Patil Krishi Pratishthan Subsidy Scheme (Maharashtra)",
+    "description": "The Vikhe Patil Krishi Pratishthan Subsidy Scheme is a collective term used to describe the various agricultural mechanization and subsidy initiatives implemented under the Department of Agriculture, Government of Maharashtra, inspired by the vision and contributions of Padma Bhushan Dr. Balasaheb Vikhe Patil, a renowned agriculturist, reformer, and cooperative leader from the state. Dr. Vikhe Patil was instrumental in promoting modern farming techniques, cooperative sugar industries, and rural ...",
+    "category": "irrigation",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Women farmers",
+      "must meet the following eligibility conditions: Aadhaar card, Land ownership documents, Bank passbook, PAN card (if applicable), and Quotation from au"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details",
+      "PAN Card"
+    ],
+    "benefits": "subsidy rates make modern technology accessible even to smallholders who could not otherwise afford it. e. Promotion of Sustainable Practices Modern machinery reduces wastage of water and inputs, promoting r benefited women self-help groups that manage community equipment on a rental basis — a model that has boosted rural entrepreneurship.",
+    "application_process": "Step 1: Application Farmers apply online via the MahaDBT portal (https://mahadbtmahait.gov.in) by selecting the relevant equipment and submitting required documents. Step \n\nStep\n\nStep 2: Subsidy Disbursement After successful verification, the subsidy amount is transferred directly to the farmer’s bank account through DBT, ensuring complete transparency. Expensive equipment, when owned by individual farmers, may remain idle for much of the year unless shared through CHCs.",
+    "official_website": "https://pmksy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "011-23389714",
+    "created_at": "2025-11-12T18:52:49.934Z",
+    "updated_at": "2025-11-12T18:52:49.934Z"
+  },
+  {
+    "idx": 34,
+    "id": "63da15a2-7922-4509-ade4-b24d28546829",
+    "scheme_code": "PM-KMY",
+    "scheme_name": "Pradhan Mantri Kisan Maan-Dhan Yojana",
+    "full_name": "Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY)",
+    "description": "Pension scheme for small and marginal farmers providing monthly pension of ₹3,000 after 60 years of age. Farmers contribute ₹55-200 per month based on age, with matching contribution from government.",
+    "category": "pension",
+    "eligibility": [
+      "All farmers",
+      "Small and marginal farmers",
+      "SC/ST farmers",
+      "Tenant farmers",
+      "Sharecroppers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Documents",
+      "Age Proof"
+    ],
+    "benefits": "Monthly pension of ₹3,000 after 60 years. Government contributes matching amount to pension fund. Life insurance cover of ₹2 lakh during contribution period.",
+    "application_process": "Apply online through PM-KMY portal or visit nearest Common Service Center with required documents. Registration can be done through banks or post offices.",
+    "official_website": "https://pmkmy.gov.in",
+    "deadline": "Open year-round",
+    "is_active": true,
+    "contact_number": "1800-180-1551",
+    "created_at": "2025-11-12T18:52:49.934Z",
+    "updated_at": "2025-11-12T18:52:49.934Z"
+  }
+]
