@@ -112,11 +112,22 @@ Each scheme follows this structure:
 
 ## API Usage
 
-Once deployed, access the data via REST API:
+Access the data via REST API from your deployed app:
 
-**GET** `/api/schemes`
-- Returns all government schemes as JSON
-- Example: `https://your-app.vercel.app/api/schemes`
+**GET** `https://kisanschemes.vercel.app/api/schemes`
+
+Returns all government schemes as JSON array. Perfect for pulling data into other projects!
+
+### Quick Example
+
+```javascript
+// Fetch all schemes
+const response = await fetch('https://kisanschemes.vercel.app/api/schemes');
+const schemes = await response.json();
+console.log(`Found ${schemes.length} schemes`);
+```
+
+See [API_USAGE.md](./API_USAGE.md) for detailed examples in JavaScript, React, Python, and more.
 
 ## Deployment to Vercel
 
